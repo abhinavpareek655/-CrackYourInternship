@@ -11,4 +11,5 @@ Arrays:
   Chocolate Distribution Problem: findMinDiff.py
   Two Sum: TwoSum.java
   Best Time to buy and sell stock II: MaxProfit2.java
+  Subarray Sums Divisible by K: SubarraysDivByK.java
 ```
