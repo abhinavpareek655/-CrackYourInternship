@@ -6,4 +6,5 @@ Arrays:
   Sort Color: sortColors.py
   Move Zeroes: MpveZeroes.java
   Remove Duplicated from Sorted Array: RemoveDuplicates.java
+  SetMatrix Zeroes: SetZeroes.java
 ```
