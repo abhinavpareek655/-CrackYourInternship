@@ -12,4 +12,5 @@ Arrays:
   Two Sum: TwoSum.java
   Best Time to buy and sell stock II: MaxProfit2.java
   Subarray Sums Divisible by K: SubarraysDivByK.java
+  find all duplicates in an array: FindDuplicates.java
 ```
