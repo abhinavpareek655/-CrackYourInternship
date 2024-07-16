@@ -7,4 +7,5 @@ Arrays:
   Move Zeroes: MpveZeroes.java
   Remove Duplicated from Sorted Array: RemoveDuplicates.java
   SetMatrix Zeroes: SetZeroes.java
+  Best Time to buy and sell stock: MaxProfit.java
 ```
