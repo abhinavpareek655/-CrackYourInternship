@@ -13,4 +13,6 @@ Arrays:
   Best Time to buy and sell stock II: MaxProfit2.java
   Subarray Sums Divisible by K: SubarraysDivByK.java
   find all duplicates in an array: FindDuplicates.java
+  Container with most Water: MaxArea.java
+  3Sum: ThreeSum.java
 ```
