@@ -16,5 +16,5 @@ Arrays:
   Container with most Water: MaxArea.java
   3Sum: ThreeSum.java
   4Sum: FourSum.java
-
+  Spiral Matrix: SpiralOrder.java
 ```
