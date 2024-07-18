@@ -19,5 +19,5 @@ Arrays:
   Spiral Matrix: SpiralOrder.java
   Word Search: Exist.java
   Merge Sorted Array: Merge.java
-  Jump game:
+  Jump game: CanJump.java
 ```
