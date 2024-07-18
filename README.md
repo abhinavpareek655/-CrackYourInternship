@@ -20,4 +20,5 @@ Arrays:
   Word Search: Exist.java
   Merge Sorted Array: Merge.java
   Jump game: CanJump.java
+  Majority Element: MajorityElement.java
 ```
