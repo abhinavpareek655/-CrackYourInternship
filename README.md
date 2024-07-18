@@ -17,4 +17,7 @@ Arrays:
   3Sum: ThreeSum.java
   4Sum: FourSum.java
   Spiral Matrix: SpiralOrder.java
+  Word Search: Exist.java
+  Merge Sorted Array: Merge.java
+  Jump game:
 ```
