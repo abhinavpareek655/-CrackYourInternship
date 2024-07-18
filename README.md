@@ -21,4 +21,6 @@ Arrays:
   Merge Sorted Array: Merge.java
   Jump game: CanJump.java
   Majority Element: MajorityElement.java
+  Reverse Pairs: ReversePairs.java
+  All Unique Permutations: UniquePerms.java
 ```
