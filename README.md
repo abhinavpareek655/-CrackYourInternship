@@ -25,5 +25,6 @@ Arrays:
   All Unique Permutations: UniquePerms.java
   Game of life: GameOfLife.java
 String:
-  
+  Find the Index Of the first Occurance in a String: StrStr.java
+  valid Parentheses: IsValid.java
 ```
