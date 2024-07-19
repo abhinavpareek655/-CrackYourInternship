@@ -28,4 +28,5 @@ String:
   Find the Index Of the first Occurance in a String: StrStr.java
   valid Parentheses: IsValid.java
   print all the duplicate characters in a string: PrintDups.java
+  longest common prefix: longestCommonPrefix.py
 ```
