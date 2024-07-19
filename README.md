@@ -29,4 +29,5 @@ String:
   valid Parentheses: IsValid.java
   print all the duplicate characters in a string: PrintDups.java
   longest common prefix: longestCommonPrefix.py
+  Valid Palindrome II: validPalindrome.py
 ```
