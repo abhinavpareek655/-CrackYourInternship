@@ -39,5 +39,5 @@ Mathematics:
 Linked List:
   middle of the linked list: MiddleNode.java
   Linked List Cycle: HasCycle.java
-  
+  Convert Binary Number in a LInkedList to Integer: GetDecimalValue.java
 ```
