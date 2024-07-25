@@ -34,5 +34,6 @@ String:
   Generate Parentheses: GenerateParentheses.java
 Mathematics:
   Add Binary: addBinary.py
+  Maximum Product of three numbers: maximumProduct.py
 
 ```
