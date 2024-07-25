@@ -32,4 +32,7 @@ String:
   Valid Palindrome II: validPalindrome.py
   Integer to Roman: IntToRoman.java
   Generate Parentheses: GenerateParentheses.java
+Mathematics:
+  Add Binary: addBinary.py
+
 ```
