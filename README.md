@@ -31,5 +31,5 @@ String:
   longest common prefix: longestCommonPrefix.py
   Valid Palindrome II: validPalindrome.py
   Integer to Roman: IntToRoman.java
-
+  Generate Parentheses: GenerateParentheses.java
 ```
