@@ -36,4 +36,6 @@ Mathematics:
   Add Binary: addBinary.py
   Maximum Product of three numbers: maximumProduct.py
   Excel Sheet Column Title: ConvertToTitle.java
+Linked List:
+  middle of the linked list: MiddleNode.java
 ```
