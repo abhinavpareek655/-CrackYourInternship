@@ -41,5 +41,5 @@ Linked List:
   Linked List Cycle: HasCycle.java
   Convert Binary Number in a LInkedList to Integer: GetDecimalValue.java
   Remove Duplicates from Sorted List = DeleteDuplicates.java
-
+  Remove Linked list Elements: RemoveElements.java
 ```
