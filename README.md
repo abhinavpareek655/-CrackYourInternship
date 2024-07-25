@@ -38,4 +38,6 @@ Mathematics:
   Excel Sheet Column Title: ConvertToTitle.java
 Linked List:
   middle of the linked list: MiddleNode.java
+  Linked List Cycle: HasCycle.java
+  
 ```
