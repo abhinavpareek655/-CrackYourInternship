@@ -44,4 +44,6 @@ Linked List:
   Remove Linked list Elements: RemoveElements.java
   Merge Two Sorted Lists: MergeTwoList.java
   Add Two Numbers: addTwonumbers.java
+Stack and Queues:
+  Implement Queue using Stacks: MyQueue.java
 ```
