@@ -42,4 +42,6 @@ Linked List:
   Convert Binary Number in a LInkedList to Integer: GetDecimalValue.java
   Remove Duplicates from Sorted List = DeleteDuplicates.java
   Remove Linked list Elements: RemoveElements.java
+  Merge Two Sorted Lists: MergeTwoList.java
+  Add Two Numbers: addTwonumbers.java
 ```
