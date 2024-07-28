@@ -3,7 +3,7 @@
 // the condition a[i] + b[i] >= k.
 import java.util.*;
 
-class GFG 
+class IsPossible 
 {
 // Check whether any permutation 
 // exists which satisfy the condition.
